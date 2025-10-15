@@ -2,6 +2,10 @@
 
 This is my readme.
 
+<div style="background-color: lightyellow; padding: 20px">
+    <p>So this is the HTML addition</p>
+</div>
+
 <!--
 **unidentifiedmeteor/unidentifiedmeteor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
